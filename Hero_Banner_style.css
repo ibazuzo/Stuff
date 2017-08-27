@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+}
+
+.top-line {
+	background: #02bdac;
+	height: 10px;
+	width: 100%;
+}
+
+.hero-banner {
+	background: #9f8971;
+}
+
+.hero-banner img {
+	mix-blend-mode: multiply;
+	filter: grayscale(100%);
+	width: 100%;
+}
